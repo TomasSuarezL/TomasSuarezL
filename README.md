@@ -1,5 +1,6 @@
-## 👋 Hi, I’m @TomasSuarezL
+## 👋 Hi, I’m Tomás @TomasSuarezL
 I’m a Software Engineer from Argentina. I'm interested in Web Development and also AI / Data Science. 
+
 My Current Stack:
  - React (Nextjs) + Chakra UI
  - Python (Flask)
